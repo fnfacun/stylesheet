@@ -851,7 +851,7 @@ Flebox（伸缩盒模型）是一个新的盒子模型，它主要优化了 UI �
 伸缩项目沿着伸缩容器内的一个伸缩行定位，通常每个伸缩容器有一个伸缩行，在默认情况下，伸缩行和文本方向一致；从左到右，从上到下。
 常规布局是基于块和文本流方向，而 Flex 布局是基于 flex-flow 流。
 
-![](./image\3416022087-57c681762836f_articlex.png)
+![](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015071004.png)
 
 伸缩项目主要是沿着主轴（main axis）,从主轴起点（main-start）到主轴重点（main-end），或者沿着侧轴（cross-axis），从侧轴起点（cross-start）到侧轴重点（cross-end）排列。
 
